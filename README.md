@@ -1,2 +1,2 @@
 # Bobs-Burgers
-Project Code
+Project Code. Scraping Ranker.com data for popular Bobs Burgers characters.
